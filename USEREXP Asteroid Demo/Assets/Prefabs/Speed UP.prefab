@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4490388492696043458
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1439843325259983788, guid: d1dcc5898c794164dba1e3b401bc0d31, type: 3}
+      propertyPath: buff
+      value: 
+      objectReference: {fileID: 11400000, guid: 1d2edbe60c30de54d992bec1866aa372, type: 2}
+    - target: {fileID: 1439843325259983788, guid: d1dcc5898c794164dba1e3b401bc0d31, type: 3}
+      propertyPath: powerPopUPprefab
+      value: 
+      objectReference: {fileID: 6575297272085134137, guid: 115d5a582e505a446877531d55d29920, type: 3}
+    - target: {fileID: 1615200202256867755, guid: d1dcc5898c794164dba1e3b401bc0d31, type: 3}
+      propertyPath: m_Color.b
+      value: 0.23921569
+      objectReference: {fileID: 0}
+    - target: {fileID: 1615200202256867755, guid: d1dcc5898c794164dba1e3b401bc0d31, type: 3}
+      propertyPath: m_Color.g
+      value: 0.78431374
+      objectReference: {fileID: 0}
+    - target: {fileID: 1615200202256867755, guid: d1dcc5898c794164dba1e3b401bc0d31, type: 3}
+      propertyPath: m_Color.r
+      value: 0.3019608
+      objectReference: {fileID: 0}
+    - target: {fileID: 7751190585706944395, guid: d1dcc5898c794164dba1e3b401bc0d31, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.2693028
+      objectReference: {fileID: 0}
+    - target: {fileID: 7751190585706944395, guid: d1dcc5898c794164dba1e3b401bc0d31, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.7896349
+      objectReference: {fileID: 0}
+    - target: {fileID: 7751190585706944395, guid: d1dcc5898c794164dba1e3b401bc0d31, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7751190585706944395, guid: d1dcc5898c794164dba1e3b401bc0d31, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7751190585706944395, guid: d1dcc5898c794164dba1e3b401bc0d31, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7751190585706944395, guid: d1dcc5898c794164dba1e3b401bc0d31, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7751190585706944395, guid: d1dcc5898c794164dba1e3b401bc0d31, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7751190585706944395, guid: d1dcc5898c794164dba1e3b401bc0d31, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7751190585706944395, guid: d1dcc5898c794164dba1e3b401bc0d31, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7751190585706944395, guid: d1dcc5898c794164dba1e3b401bc0d31, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9002827418941620335, guid: d1dcc5898c794164dba1e3b401bc0d31, type: 3}
+      propertyPath: m_Name
+      value: Speed UP
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 0}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d1dcc5898c794164dba1e3b401bc0d31, type: 3}
